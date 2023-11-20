@@ -11,3 +11,12 @@ https://github.com/jeros0216/jerosWork.git
 
 
 -------rebase1111
+
+merget "" into develop
+
+
+~~~~~~
+new branch -- testD 따서 수정해서 올린다
+그리고 merge into develop 한다음에
+testD branch가있으면 삭제한다 오키
+
