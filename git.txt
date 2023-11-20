@@ -20,3 +20,6 @@ new branch -- testD 따서 수정해서 올린다
 그리고 merge into develop 한다음에
 testD branch가있으면 삭제한다 오키
 
+~~~
+new branch -- AAA 따서 수정해서 올린다
+끝 그리고 삭제 그리고 다시받기
